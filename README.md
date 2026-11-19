@@ -14,7 +14,7 @@
 python3 -m http.server 8000
 ```
 
-访问 [http://localhost:8000/](https://jason-muxin-han.github.io/What-to-Order/)。也可以直接打开 `index.html`，但离线缓存和安装功能需要通过 localhost 或 HTTPS 访问。
+访问 https://jason-muxin-han.github.io/What-to-Order/。也可以直接打开 `index.html`，但离线缓存和安装功能需要通过 localhost 或 HTTPS 访问。
 
 ## 部署
 
